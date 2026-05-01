@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮಊರ್ಜಾ</string>
+    <string name="transformer_zones">ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್ ವಲಯಗಳು</string>
+    <string name="select_zone_desc">ಮೇಲ್ವಿಚಾರಣೆಗಾಗಿ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="current_power_status">ಪ್ರಸ್ತುತ ವಿದ್ಯುತ್ ಸ್ಥಿತಿ</string>
+    <string name="power_on">ವಿದ್ಯುತ್ ಇದೆ (ON)</string>
+    <string name="power_off">ವಿದ್ಯುತ್ ಇಲ್ಲ (OFF)</string>
+    <string name="updated_prefix">ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="min_ago">ನಿಮಿಷಗಳ ಹಿಂದೆ</string>
+    <string name="notify_restored">ವಿದ್ಯುತ್ ಬಂದಿದೆ ಎಂದು ತಿಳಿಸಿ</string>
+    <string name="pump_timer_title">💧 ಪಂಪ್ ಆಟೋ-ಆಫ್ ಟೈಮರ್</string>
+    <string name="pump_timer_desc">ಅಂದಾಜು ನೀರುಣಿಸುವ ಸಮಯಕ್ಕಾಗಿ ಬೆಳೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="zone_id_label">ವಲಯ ಐಡಿ: %1$s</string>
+</resources>
