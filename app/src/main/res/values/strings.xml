@@ -11,4 +11,60 @@
     <string name="pump_timer_title">💧 Pump Auto-Off Timer</string>
     <string name="pump_timer_desc">Select crop for estimated watering time</string>
     <string name="zone_id_label">Zone ID: %1$s</string>
+    <string name="search_zones">Search zones&#8230;</string>
+    <string name="live">Live</string>
+    <string name="offline">Offline</string>
+    <string name="updated_just_now">Updated just now</string>
+    <string name="no_electricity">No electricity currently</string>
+    <string name="power_expected_soon">Power expected soon</string>
+    <string name="electricity_available">Electricity is available</string>
+    <string name="notifications">Notifications</string>
+    <string name="notif_enabled">You\'ll be notified when power returns</string>
+    <string name="notif_disabled">Notifications disabled</string>
+    <string name="back">Back</string>
+    <string name="reported_by">Reported by: %1$s</string>
+    <string name="active_reporters">Active reporters: %1$d</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="power_update">Update Power Status</string>
+    <string name="report_on">Report Power ON</string>
+    <string name="report_off">Report Power OFF</string>
+    <string name="status_updated">Status updated successfully!</string>
+    <string name="smart_prediction">Smart Prediction</string>
+    <string name="expected_restore">Expected restore in ~%1$d mins</string>
+    <string name="history_timeline">History / Timeline</string>
+    <string name="refresh_status">Refresh Status</string>
+    <string name="data_refreshed">Data refreshed</string>
+    <string name="power_available_today">Power available today: %1$d hrs</string>
+    <string name="analytics">Daily Analytics</string>
+    <string name="power_on_at">Power ON at %1$s</string>
+    <string name="power_off_at">Power OFF at %1$s</string>
+    <string name="offline_msg">Offline &#8211; showing last update</string>
+    <string name="auto_detect">Auto-detect my zone</string>
+    <string name="detecting">Detecting location&#8230;</string>
+    <string name="signal_strong">Strong Signal</string>
+    <string name="signal_weak">Weak Signal</string>
+    <string name="reliability">Data Reliability</string>
+    <string name="weekly_avg">Weekly average: %1$d hrs/day</string>
+    <string name="best_irrigation_time">Best irrigation time: %1$s</string>
+    <string name="cooldown_msg">Please wait 30 seconds between reports</string>
+    <string name="people_nearby">People nearby reporting: %1$d</string>
+    <string name="fluctuations_detected">Frequent fluctuations detected today</string>
+    <string name="long_outage_alert">Power ON after long outage (6+ hrs)</string>
+
+    <!-- Realistic Village Names -->
+    <string name="village_hunsur">Hunsur - Gavadagere</string>
+    <string name="village_mandya">Mandya - Keragodu</string>
+    <string name="village_kolar">Kolar - Devarayasamudra</string>
+    <string name="village_davangere">Davangere - Harihara</string>
+    <string name="village_belagavi">Belagavi - Gokak</string>
+
+    <!-- Crops -->
+    <string name="crop_paddy">Paddy (Kharif)</string>
+    <string name="crop_sugarcane">Sugarcane (Annual)</string>
+    <string name="crop_ragi">Ragi (Finger Millet)</string>
+    <string name="crop_maize">Maize (Corn)</string>
+    <string name="crop_groundnut">Groundnut</string>
+    <string name="crop_cotton">Cotton</string>
+    <string name="crop_arecanut">Arecanut (Betel Nut)</string>
+    <string name="crop_other">Other</string>
 </resources>

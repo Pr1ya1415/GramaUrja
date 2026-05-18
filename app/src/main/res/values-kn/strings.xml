@@ -11,4 +11,60 @@
     <string name="pump_timer_title">💧 ಪಂಪ್ ಆಟೋ-ಆಫ್ ಟೈಮರ್</string>
     <string name="pump_timer_desc">ಅಂದಾಜು ನೀರುಣಿಸುವ ಸಮಯಕ್ಕಾಗಿ ಬೆಳೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="zone_id_label">ವಲಯ ಐಡಿ: %1$s</string>
+    <string name="search_zones">ವಲಯಗಳನ್ನು ಹುಡುಕಿ&#8230;</string>
+    <string name="live">ಲೈವ್</string>
+    <string name="offline">ಆಫ್‌ಲೈನ್</string>
+    <string name="updated_just_now">ಈಗಷ್ಟೇ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="no_electricity">ಸದ್ಯಕ್ಕೆ ವಿದ್ಯುತ್ ಇಲ್ಲ</string>
+    <string name="power_expected_soon">ಶೀಘ್ರದಲ್ಲೇ ವಿದ್ಯುತ್ ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="electricity_available">ವಿದ್ಯುತ್ ಲಭ್ಯವಿದೆ</string>
+    <string name="notifications">ಸೂಚನೆಗಳು</string>
+    <string name="notif_enabled">ವಿದ್ಯುತ್ ಬಂದಾಗ ನಿಮಗೆ ತಿಳಿಸಲಾಗುವುದು</string>
+    <string name="notif_disabled">ಸೂಚನೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="reported_by">ವರದಿಗಾರರು: %1$s</string>
+    <string name="active_reporters">ಸಕ್ರಿಯ ವರದಿಗಾರರು: %1$d</string>
+    <string name="enter_name">ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="power_update">ವಿದ್ಯುತ್ ಸ್ಥಿತಿಯನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="report_on">ವಿದ್ಯುತ್ ಇದೆ (ON)</string>
+    <string name="report_off">ವಿದ್ಯುತ್ ಇಲ್ಲ (OFF)</string>
+    <string name="status_updated">ಸ್ಥಿತಿ ನವೀಕರಿಸಲಾಗಿದೆ!</string>
+    <string name="smart_prediction">ಸ್ಮಾರ್ಟ್ ಭವಿಷ್ಯ</string>
+    <string name="expected_restore">ಸುಮಾರು %1$d ನಿಮಿಷಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="history_timeline">ಇತಿಹಾಸ / ಕಾಲಾನುಕ್ರಮ</string>
+    <string name="refresh_status">ಸ್ಥಿತಿಯನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="data_refreshed">ಮಾಹಿತಿ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="power_available_today">ಇಂದಿನ ವಿದ್ಯುತ್ ಲಭ್ಯತೆ: %1$d ಗಂಟೆಗಳು</string>
+    <string name="analytics">ದೈನಂದಿನ ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="power_on_at">ವಿದ್ಯುತ್ ಬಂದಿದೆ: %1$s</string>
+    <string name="power_off_at">ವಿದ್ಯುತ್ ಹೋಗಿದೆ: %1$s</string>
+    <string name="offline_msg">ಆಫ್‌ಲೈನ್ &#8211; ಹಳೆಯ ಮಾಹಿತಿ ತೋರಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="auto_detect">ನನ್ನ ವಲಯವನ್ನು ಪತ್ತೆಮಾಡಿ</string>
+    <string name="detecting">ಸ್ಥಳ ಪತ್ತೆಮಾಡಲಾಗುತ್ತಿದೆ&#8230;</string>
+    <string name="signal_strong">ಬಲವಾದ ಸಿಗ್ನಲ್</string>
+    <string name="signal_weak">ದುರ್ಬಲ ಸಿಗ್ನಲ್</string>
+    <string name="reliability">ಮಾಹಿತಿಯ ವಿಶ್ವಾಸಾರ್ಹತೆ</string>
+    <string name="weekly_avg">ವಾರದ ಸರಾಸರಿ: ದಿನಕ್ಕೆ %1$d ಗಂಟೆಗಳು</string>
+    <string name="best_irrigation_time">ನೀರುಣಿಸಲು ಉತ್ತಮ ಸಮಯ: %1$s</string>
+    <string name="cooldown_msg">ವರದಿಗಳ ನಡುವೆ ದಯವಿಟ್ಟು 30 ಸೆಕೆಂಡು ಕಾಯಿರಿ</string>
+    <string name="people_nearby">ಹತ್ತಿರದ ವರದಿಗಾರರು: %1$d</string>
+    <string name="fluctuations_detected">ಇಂದು ಪದೇ ಪದೇ ವಿದ್ಯುತ್ ವ್ಯತ್ಯಯ ಕಂಡುಬಂದಿದೆ</string>
+    <string name="long_outage_alert">ದೀರ್ಘ ಕಾಲದ ನಂತರ ವಿದ್ಯುತ್ ಬಂದಿದೆ (6+ ಗಂಟೆ)</string>
+
+    <!-- Realistic Village Names -->
+    <string name="village_hunsur">ಹುಣಸೂರು - ಗವದಗೆರೆ</string>
+    <string name="village_mandya">ಮಂಡ್ಯ - ಕೆರಗೋಡು</string>
+    <string name="village_kolar">ಕೋಲಾರ - ದೇವರಾಯಸಮುದ್ರ</string>
+    <string name="village_davangere">ದಾವಣಗೆರೆ - ಹರಿಹರ</string>
+    <string name="village_belagavi">ಬೆಳಗಾವಿ - ಗೋಕಾಕ್</string>
+
+    <!-- Crops -->
+    <string name="crop_paddy">ಭತ್ತ (ಖಾರಿಫ್)</string>
+    <string name="crop_sugarcane">ಕಬ್ಬು (ವಾರ್ಷಿಕ)</string>
+    <string name="crop_ragi">ರಾಗಿ</string>
+    <string name="crop_maize">ಮೆಕ್ಕೆಜೋಳ</string>
+    <string name="crop_groundnut">ಕಡಲೆಕಾಯಿ</string>
+    <string name="crop_cotton">ಹತ್ತಿ</string>
+    <string name="crop_arecanut">ಅಡಿಕೆ</string>
+    <string name="crop_other">ಇತರೆ</string>
 </resources>
